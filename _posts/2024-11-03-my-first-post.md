@@ -10,6 +10,8 @@ date: 2024-11-03
 This is a sample blog to ensure that everything works
 
 Testing images
-<img src="/assets/images/sample.png" alt="Desktop" width="300">
+<br>
+
+<img src="/assets/images/sample.png" alt="Desktop" width="800">
 
 [Back to Home]({{ "/" | relative_url }})
