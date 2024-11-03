@@ -3,8 +3,7 @@ layout: default  # or home, depending on your theme
 title: Welcome!
 ---
 
-# Welcome to My Blog
-## Testing
+# Adam Hartshorne's Portfolio 
 
 ### Recent Posts
 
