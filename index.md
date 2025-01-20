@@ -5,4 +5,6 @@ title: Welcome!
 
 # Adam Hartshorne's Portfolio 
 
-Currently a WIP
+[Troubleshooting](troubleshooting/index.md)
+
+Currently a WIP (Home)

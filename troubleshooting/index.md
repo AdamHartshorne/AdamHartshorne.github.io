@@ -5,4 +5,4 @@ title: Welcome!
 
 # Adam Hartshorne's Portfolio 
 [Home](../index.md)
-Currently a WIP (Troublesoot page)
+Currently a WIP (Troubleshoot page)
