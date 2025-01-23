@@ -8,9 +8,11 @@ title: Installing Windows 7 via Windows Deployment Services
 A laptop I own has a broken disc drive. I want to install Windows 7 on the laptop. Since I don't have any spare USB flash drives, I thought it would be a fun idea to install Windows 7 via a network install.
 
 ## Tools
+
 ### Machines
 1. VM running Windows Server 2025 configured for bridged network access
 2. Toshiba Satellite Pro L20
+
 ### Software
 1. Windows Server 2025 with Windows Deployment Services role
 
