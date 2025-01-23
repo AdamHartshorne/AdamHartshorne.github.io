@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: Welcome!
+title: Installing Windows 7 via Windows Deployment Services
 ---
 
 

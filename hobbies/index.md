@@ -1,6 +1,9 @@
 ---
 layout: default  
-title: Attempting to fix a Blue Screen of Death (BSOD) when updating graphics drivers
+title: Hobbies
 ---
 [Troubleshooting](../index.md)
+
+## January 2025
+- [Installing Windows 7 via Windows Deployment Services](Projects/NetworkWinInstall.md)
 
