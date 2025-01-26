@@ -3,8 +3,6 @@ layout: default
 title: Welcome!
 ---
 
-<head><link rel="stylesheet" href="/assets/css/style.css"></head>
-
 [Troubleshooting](troubleshooting/index.md) | [Hobbies](hobbies/index.md)
 
 # Welcome
