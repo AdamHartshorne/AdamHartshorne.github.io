@@ -3,8 +3,7 @@ layout: default
 title: Welcome!
 ---
 
-# Adam Hartshorne's Portfolio 
-[Home](../index.md)
+[Home](../index.md) | [Hobbies](../hobbies/index.md) | [Troubleshooting](../troubleshooting/index.md)
 
 Welcome to the troubleshooting page of my portfolio, where I document diagnosing and resolving my IT issues.
 
