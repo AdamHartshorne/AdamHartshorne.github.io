@@ -2,7 +2,7 @@
 layout: default  
 title: Installing Windows 7 via Windows Deployment Services
 ---
-[Home](/index.md) | [Projects](/projects/index.md) | [Troubleshooting](/troubleshooting/index.md)
+[Home](../../../../index.md) | [Projects](../../../..//projects/index.md) | [Troubleshooting](../../../../troubleshooting/index.md)
 
 # Aim
 A laptop I own has a broken disc drive. I want to install Windows 7 on the laptop. Since I don't have any spare USB flash drives, I thought it would be a fun idea to install Windows 7 via a network install.
