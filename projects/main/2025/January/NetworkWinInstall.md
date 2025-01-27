@@ -2,7 +2,7 @@
 layout: default  
 title: Installing Windows 7 via Windows Deployment Services
 ---
-
+[Home](/index.md) | [Projects](/projects/index.md) | [Troubleshooting](/troubleshooting/index.md)
 
 # Aim
 A laptop I own has a broken disc drive. I want to install Windows 7 on the laptop. Since I don't have any spare USB flash drives, I thought it would be a fun idea to install Windows 7 via a network install.
@@ -22,10 +22,10 @@ The first thing I needed to do was add the Windows 7 image to the server. I did 
 # Network Booting and reaching the desktop
 After completing that step I then was able to network boot the Toshiba laptop to the Windows 7 setup by pressing F12 as soon as I turned the laptop on and selecting `LAN` on the boot menu. 
 
-![Laptop booting into WDS](images/NetBoot/PXEBoot.png)
+![Laptop booting into WDS](../../images/2025/January/NetBoot/PXEBoot.png)
 *Laptop booting into Windows setup from WDS on a VM*
 
-![Laptop booting into WDS](images/NetBoot/WDSIntro.png)
+![Laptop booting into WDS](../../images/2025/January/NetBoot/WDSIntro.png)
 *Laptop showing the first page of Windows Setup using WDS*
 
 
