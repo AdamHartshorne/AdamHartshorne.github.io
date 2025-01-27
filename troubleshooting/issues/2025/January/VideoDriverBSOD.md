@@ -2,7 +2,7 @@
 layout: default  
 title: BSOD Workaround when updating drivers
 ---
-[Troubleshooting](../../../index.md)
+[Home](../../../../index.md) | [Projects](../../../..//projects/index.md) | [Troubleshooting](../../../../troubleshooting/index.md)
 
 # Attempting to fix a Blue Screen of Death (BSOD) when updating graphics drivers
 

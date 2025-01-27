@@ -2,7 +2,7 @@
 layout: default  
 title:  
 ---
-[Troubleshooting](../../../index.md)
+[Home](../../../../index.md) | [Projects](../../../..//projects/index.md) | [Troubleshooting](../../../../troubleshooting/index.md)
 
 # Deleted VHD causing an error upon boot
 
